@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 Demo
 
-- **Live Demo:** [Demo Video](https://drive.google.com/file/d/1A5L8d5nUe8wQ4QjDEMO-LINK-EXAMPLE/view?usp=sharing)
+- **Live Demo:** [Demo Video](https://drive.google.com/file/d/1TCldCDTJ9PGOrrSvyskuHwGnpwC5WeZK/view?usp=sharing)
   
 ---
 
@@ -126,6 +126,7 @@
 ## 🙌 Team
 
 Palestine Launchpad 4th Graduate Hackathon - Team20-P3
+
 Contact: yazansedih@gmail.com
 
 ---

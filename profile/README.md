@@ -1,13 +1,13 @@
-# Shu'ur: Arabic Sentiment Analysis for Customer Support Conversations
+# Shu'ur (شعور): Arabic Sentiment Analysis for Customer Support Conversations
 
-![Dashboard Screenshot](https://pplx-res.cloudinary.com/image/private/user_uploads/61212446/78ea217d-b64e-401b-9d63-fefb07abae34/Screenshot-2025-06-14-at-12.35.01-AM.jpg)
+![Screenshot 2025-06-14 at 12 42 46 AM](https://github.com/user-attachments/assets/691ba5d8-5888-4c9a-9189-e532b450b8e4)
+
 
 ## 🚀 Overview
 
 **Shu'ur** is an AI-powered platform that automatically analyzes, classifies, and visualizes Arabic customer support conversations (including Palestinian dialect) to help organizations instantly understand customer sentiment, spot dissatisfaction, and improve service quality.
 
-- **Live Demo:** [Watch a demo here](https://drive.google.com/file/d/1A5L8d5nUe8wQ4QjDEMO-LINK-EXAMPLE/view?usp=sharing)  
-  *(Replace with your real demo link)*
+- **Live Demo:** [Watch a demo here](https://drive.google.com/file/d/1TCldCDTJ9PGOrrSvyskuHwGnpwC5WeZK/view?usp=sharing)  
 
 ---
 
@@ -17,21 +17,8 @@
 - **Real-Time Dashboard**: Visualizes sentiment trends, agent performance, and common issues.
 - **Automatic Tagging**: Highlights dissatisfied customer messages for rapid intervention.
 - **Comprehensive Metrics**: Accuracy, Precision, Recall, F1-Score, MAE, RMSE, and more.
-- **Multi-channel Ready**: Designed for chat, WhatsApp, and web support systems.
+- **Real Time Chatting**: Designed for live chat, and web-based customer support systems.
 - **Secure API Integration**: Uses OpenRouter LLM APIs with API key authentication.
-
----
-
-## 🖼️ Screenshots
-
-### **1. GitHub Team Workspace**
-![GitHub Team](https://pplx-res.cloudinary.com/image/private/user_uploads/61212446/eadd4c76-16af-461d-b588-06fe80d0e983/image.jpg)
-
-### **2. Admin Analytics Dashboard**
-![Admin Dashboard](https://pplx-res.cloudinary.com/image/private/user_uploads/61212446/78ea217d-b64e-401b-9d63-fefb07abae34/Screenshot-2025-06-14-at-12.35.01-AM.jpg)
-
-### **3. Conversation Sentiment Analysis**
-![Sentiment Analysis](https://pplx-res.cloudinary.com/image/private/user_uploads/61212446/698b5383-0a04-4215-9b64-c29980f87ca3/Screenshot-2025-06-14-at-12.42.46-AM.jpg)
 
 ---
 
@@ -64,7 +51,7 @@
 - **Jupyter Notebook** (data analysis, prototyping)
 - **TypeScript** (dashboard/web frontend)
 - **OpenRouter API** (LLM inference)
-- **Mistral AI / AraBERT** (pre-trained models)
+- **Mistral AI** (pre-trained models)
 - **Matplotlib, Seaborn** (visualizations)
 - **Pandas, scikit-learn** (data processing & metrics)
 
@@ -139,14 +126,8 @@
 
 ## 🙌 Team
 
-Palestine Launchpad 4th Graduate Hackathon - TeamP3-20  
+Palestine Launchpad 4th Graduate Hackathon - Team20-P3
 Contact: yazansedih@gmail.com
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 
